@@ -20,7 +20,6 @@ Este repositorio reúne mis proyectos personales y de práctica, donde exploro d
 | [Web scraper de noticias](./proyecto_web_scraper/) | Extracción automatizada de titulares desde sitios web. | `requests`, `BeautifulSoup` |
 | [API con Flask](./proyecto_api_flask/) | API REST básica para gestionar información de usuarios. | `Flask`, `JSON`, `Python` |
 
-*(Agrega aquí más proyectos a medida que los subas)*
 
 ---
 
