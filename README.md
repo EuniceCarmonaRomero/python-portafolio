@@ -37,7 +37,7 @@ Este repositorio reúne mis proyectos personales y de práctica, donde exploro d
 
 Si quieres conocer más sobre mis proyectos o colaborar conmigo:
 
-- 💌 **Email:** *eunicecr.1027@gmail.com 
+- 💌 **Email:** eunicecr.1027@gmail.com 
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/eunice-carmona-romero-a42252247
 - 🧠 **GitHub:** [EuniceCarmonaRomero](https://github.com/EuniceCarmonaRomero)
 
