@@ -44,3 +44,6 @@ Si quieres conocer más sobre mis proyectos o colaborar conmigo:
 ---
 
 ⭐️ *Gracias por visitar mi portafolio. ¡Cada proyecto es una oportunidad para aprender y mejorar!*
+
+Este texto fue añadido desde la rama 'practica-ramas' para practicar merges.
+
